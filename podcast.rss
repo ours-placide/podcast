@@ -10,7 +10,7 @@
     <!-- 28e dimanche du Temps Ordinaire — Evangile -->
     <item>
       <title>28e dimanche du Temps Ordinaire — Evangile </title>
-      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3" length="12345678" type="audio/mpeg"/>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3" length="1537100" type="audio/mpeg"/>
       <guid>2024.10.13-Evangile</guid>
       <pubDate>Sun, 20 Oct 2024 20:00:00 GMT</pubDate>
     </item>
@@ -18,7 +18,7 @@
     <!-- 28e dimanche du Temps Ordinaire — Homélie -->
     <item>
       <title>28e dimanche du Temps Ordinaire — Homélie</title>
-      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3" length="23456789" type="audio/mpeg"/>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3" length=" 3041322 " type="audio/mpeg"/>
       <guid>2024.10.13-Homelie</guid>
       <pubDate>Sun, 20 Oct 2024 20:00:01 GMT</pubDate>
     </item>
@@ -26,18 +26,18 @@
     <!-- 29e dimanche du Temps Ordinaire — Evangile -->
     <item>
       <title>29e dimanche du Temps Ordinaire — Evangile</title>
-      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3" length="34567890" type="audio/mpeg"/>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3" length="2179906" type="audio/mpeg"/>
       <guid>2024.10.20-evangile</guid>
       <pubDate>Sun, 20 Oct 2024 20:00:03 GMT</pubDate>
     </item>
 
-    <!-- 29e dimanche du Temps Ordinaire — Homélie -->
+    <!-- 29e dimanche du Temps Ordinaire — Homélie 
     <item>
       <title>29e dimanche du Temps Ordinaire — Homélie</title>
       <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-homelie.mp3" length="45678901" type="audio/mpeg"/>
       <guid>2024.10.20-homelie</guid>
       <pubDate>Sun, 20 Oct 2024 20:00:04 GMT</pubDate>
-    </item>
+    </item>-->
 
   </channel>
 </rss>
