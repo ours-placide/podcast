@@ -1,43 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Paroisse Bienheureuse Marie Poussepin</title>
+    <title>Paroisse Bienheureuse Marie Poussepin - Evangiles et Homélies</title>
     <link>https://www.paroisse-bienheureuse-marie-poussepin.fr</link>
-    <description>Ce podcast rassemble les homélies et les évangiles</description>
+    <description>Ce podcast rassemble les évangiles de chaque dimanche lus dans la Paroisse Bienheureuse Marie Poussepin et les homélies correspondantes</description>
+	<copyright>copyright Paroisse Bienheureuse Marie Poussepin</copyright>
     <language>fr</language>
+	<itunes:author>Paroisse Bienheureuse Marie Poussepin</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:category>Religion et spiritualité</itunes:category>
+	<itunes:summary>Ce podcast rassemble les évangiles de chaque dimanche lus dans la Paroisse Bienheureuse Marie Poussepin et les homélies correspondantes</itunes:summary>
     <itunes:image href="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/09/f5725f19-3771-4f59-aed2-cfd413af76ab.jpg"/>
+<lastBuiltDate>Sun, 20 Oct 2024 18:00:00 GMT</lastBuiltDate>
     
-    <!-- 28e dimanche du Temps Ordinaire — Evangile -->
+	
+	<!-- 28e dimanche du Temps Ordinaire — Evangile -->
     <item>
       <title>28e dimanche du Temps Ordinaire — Evangile </title>
       <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3" length="1537100" type="audio/mpeg"/>
-      <guid>2024.10.13-Evangile</guid>
-      <pubDate>Sun, 20 Oct 2024 20:00:00 GMT</pubDate>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3</guid>
+      <pubDate>Sun, 13 Oct 2024 18:00:00 GMT</pubDate>
+	  <itunes:duration>00:02:00</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
     </item>
 
     <!-- 28e dimanche du Temps Ordinaire — Homélie -->
     <item>
       <title>28e dimanche du Temps Ordinaire — Homélie</title>
-      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3" length=" 3041322 " type="audio/mpeg"/>
-      <guid>2024.10.13-Homelie</guid>
-      <pubDate>Sun, 20 Oct 2024 20:00:01 GMT</pubDate>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3" length="3041322" type="audio/mpeg"/>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3</guid>
+      <pubDate>Sun, 13 Oct 2024 18:00:00 GMT</pubDate>
+	  <itunes:duration>00:02:00</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
     </item>
 
     <!-- 29e dimanche du Temps Ordinaire — Evangile -->
     <item>
       <title>29e dimanche du Temps Ordinaire — Evangile</title>
       <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3" length="2179906" type="audio/mpeg"/>
-      <guid>2024.10.20-evangile</guid>
-      <pubDate>Sun, 20 Oct 2024 20:00:03 GMT</pubDate>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 18:00:00 GMT</pubDate>
+	  <itunes:duration>00:02:00</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
     </item>
 
-    <!-- 29e dimanche du Temps Ordinaire — Homélie 
+    <!-- 29e dimanche du Temps Ordinaire — Homélie -->
     <item>
       <title>29e dimanche du Temps Ordinaire — Homélie</title>
       <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-homelie.mp3" length="45678901" type="audio/mpeg"/>
-      <guid>2024.10.20-homelie</guid>
-      <pubDate>Sun, 20 Oct 2024 20:00:04 GMT</pubDate>
-    </item>-->
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-homelie.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 18:00:00 GMT</pubDate>
+	  <itunes:duration>00:02:00</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
