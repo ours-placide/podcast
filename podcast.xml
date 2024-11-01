@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Paroisse Bienheureuse Marie Poussepin</title>
+    <link>https://www.paroisse-bienheureuse-marie-poussepin.fr</link>
+    <description>Ce podcast rassemble les homélies et les évangiles</description>
+    <language>fr</language>
+    <itunes:image href="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/09/f5725f19-3771-4f59-aed2-cfd413af76ab.jpg"/>
+    
+    <!-- 28e dimanche du Temps Ordinaire — Evangile -->
+    <item>
+      <title>28e dimanche du Temps Ordinaire — Evangile </title>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+
+    <!-- 28e dimanche du Temps Ordinaire — Homélie -->
+    <item>
+      <title>28e dimanche du Temps Ordinaire — Homélie</title>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3" length="23456789" type="audio/mpeg"/>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Homelie.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+
+    <!-- 29e dimanche du Temps Ordinaire — Evangile -->
+    <item>
+      <title>29e dimanche du Temps Ordinaire — Evangile</title>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3" length="34567890" type="audio/mpeg"/>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-evangile.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+
+    <!-- 29e dimanche du Temps Ordinaire — Homélie -->
+    <item>
+      <title>29e dimanche du Temps Ordinaire — Homélie</title>
+      <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-homelie.mp3" length="45678901" type="audio/mpeg"/>
+      <guid>https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.20-homelie.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
