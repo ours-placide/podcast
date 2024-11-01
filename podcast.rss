@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Paroisse Bienheureuse Marie Poussepin - Evangiles et Homélies</title>
-    <link>https://www.paroisse-bienheureuse-marie-poussepin.fr</link>
+    <link>https://github.com/ours-placide/podcast/blob/main/podcast.rss</link>
     <description>Ce podcast rassemble les évangiles de chaque dimanche lus dans la Paroisse Bienheureuse Marie Poussepin et les homélies correspondantes</description>
 	<copyright>copyright Paroisse Bienheureuse Marie Poussepin</copyright>
     <language>fr</language>
+        <googleplay:author>Paroisse Bienheureuse Marie Poussepin</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
 	<itunes:author>Paroisse Bienheureuse Marie Poussepin</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:category>Religion et spiritualité</itunes:category>
