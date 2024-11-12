@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paroisse Bienheureuse Marie Poussepin - Evangiles et Homélies</title>
-    <link>https://github.com/ours-placide/podcast/blob/main/podcast.rss</link>
+    <link>https://www.paroisse-bienheureuse-marie-poussepin.fr/</link>
     <description>Ce podcast rassemble les évangiles de chaque dimanche lus dans la Paroisse Bienheureuse Marie Poussepin et les homélies correspondantes</description>
 	<copyright>copyright Paroisse Bienheureuse Marie Poussepin</copyright>
     <language>fr</language>
         <googleplay:author>Paroisse Bienheureuse Marie Poussepin</googleplay:author>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
+ 
 	<itunes:author>Paroisse Bienheureuse Marie Poussepin</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:category>Religion et spiritualité</itunes:category>
@@ -21,7 +19,7 @@
 	<!-- 28e dimanche du Temps Ordinaire — Evangile -->
     <item>
       <title>28e dimanche du Temps Ordinaire — Evangile </title>
-       <description>Évangile de Jésus Christ</description>
+      <description>Évangile de Jésus Christ</description>
       <enclosure url="https://www.paroisse-bienheureuse-marie-poussepin.fr/wp-content/uploads/2024/10/2024.10.13-Evangile.mp3" length="1537100" type="audio/mpeg"/>
       <guid isPermaLink="false">cepod01</guid>
       <pubDate>Sun, 13 Oct 2024 18:00:00 GMT</pubDate>
